@@ -6,7 +6,7 @@ The basic motivation behind the project was to get a foundations in Programming.
 Run entertainment_center.py and input the movie titles you want to list on your movie trailer website along with the API Key. Rest is automated by the code.
 Rest of the code is documented for further usage. Make sure to remove/modify the footer in fresh_tomatoes.py before the use though.
 # Sample Website
-![alt text](https://github.com/hamidkreaa/Hamidkreaa-movie-trailer-project/img/movieTrailer.png)
+![Web site Image](https://github.com/hamidkreaa/Hamidkreaa-movie-trailer-project/master/img/movieTrailer.png)
 I have added the sample html page generated.
 
 
